@@ -52,10 +52,10 @@ AUTH_USER=myuser
 AUTH_PASS=mypassword
 MAX_CONNECTIONS=1
 MAX_MESSAGES=1
-
+```
 
 🔑 Example smtp_accounts.json
-
+```smtp_accounts.json
 [
   {
     "host": "smtp.suddenlink.net",
@@ -76,4 +76,5 @@ MAX_MESSAGES=1
     }
   }
 ]
+```
 
